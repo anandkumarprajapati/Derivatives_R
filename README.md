@@ -1,2 +1,3 @@
 # Derivatives_R
-Coding In R
+
+Modelling Different functions in R
