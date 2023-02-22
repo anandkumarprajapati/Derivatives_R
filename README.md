@@ -6,3 +6,4 @@ Modelling Different functions in R:
 2. Binomial Option Pricing Model 
 3. Bull Call Spread 
 4. Long Straddle 
+5. Volatility Smiles
